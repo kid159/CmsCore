@@ -1,5 +1,5 @@
 {
-    "name": "zendframework/cms-application",
+    "name": "zend-cms/cms-application",
     "description": "Skeleton Application for ZF2",
     "license": "BSD-3-Clause",
     "keywords": [
