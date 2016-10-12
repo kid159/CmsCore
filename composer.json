@@ -1,5 +1,5 @@
 {
-    "name": "zend-cms/cms-application",
+    "name": "zcms/cms-zendskeleton",
     "description": "Skeleton Application for ZF2",
     "license": "BSD-3-Clause",
     "keywords": [
@@ -9,9 +9,18 @@
     ],
     "homepage": "https://github.com/kid159/CmsCore",
     "authors": [
-		{
-			"name": "Kid",
-			"email": "kidtran159@gmail.com"
-		}
-	]
+	{
+		"name": "Kid",
+		"email": "kidtran159@gmail.com"
+	}
+    ],
+    "require": {
+	"php": ">=5.5",
+	"zendframework/zendframework": "~2.5"
+    },
+    "autoload": {
+    	"psr-4": {
+      	"CmsCore\\": "vendor/CmsCore"
+    }
+  },
 }
