@@ -20,7 +20,7 @@
     },
     "autoload": {
     	"psr-4": {
-      	"CmsCore\\": "vendor/CmsCore"
+      		"CmsCore\\": "vendor/CmsCore"
+    	}
     }
-  },
 }
