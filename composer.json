@@ -1,7 +1,7 @@
 {
     "name": "zcms/cmscore",
     "description": "Skeleton Application for ZF2",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "type": "project",
     "license": "BSD-3-Clause",
     "minimum-stability": "dev",
