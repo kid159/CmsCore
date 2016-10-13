@@ -18,18 +18,6 @@
 	}
     ],
     "require": {
-	"php": ">=5.5",
-	"zendframework/zendframework": "~2.5",
-	"zcms/CmsCore": "dev-master"
-    },
-	"autoload": {
-        "psr-0": {
-            "CmsCore\\": "vendor/CmsCore/"
-        }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0-dev"
-        }
+	"php": ">=5.5"
     }
 }
