@@ -21,5 +21,15 @@
 	"php": ">=5.5",
 	"zendframework/zendframework": "~2.5",
 	"vendor/CmsCore": "dev-master"
+    },
+	"autoload": {
+        "psr-0": {
+            "CmsCore\\": "CmsCore/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
     }
 }
