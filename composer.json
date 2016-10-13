@@ -20,11 +20,11 @@
     "require": {
 	"php": ">=5.5",
 	"zendframework/zendframework": "~2.5",
-	"vendor/CmsCore": "dev-master"
+	"zcms/CmsCore": "dev-master"
     },
 	"autoload": {
         "psr-0": {
-            "CmsCore\\": "CmsCore/"
+            "CmsCore\\": "vendor/CmsCore/"
         }
     },
     "extra": {
