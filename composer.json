@@ -4,6 +4,7 @@
     "version": "1.0.0",
     "type": "project",
     "license": "BSD-3-Clause",
+    "minimum-stability": "dev",
     "keywords": [
         "framework",
         "zf2",
@@ -19,6 +20,6 @@
     "require": {
 	"php": ">=5.5",
 	"zendframework/zendframework": "~2.5",
-	    "CmsCore": "1.*"	    
+	"vendor/CmsCore": "dev-master"
     }
 }
