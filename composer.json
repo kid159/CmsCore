@@ -1,5 +1,5 @@
 {
-    "name": "zcms/cms-zendskeleton",
+    "name": "zcms/cmscore",
     "description": "Skeleton Application for ZF2",
     "version": "1.0.0",
     "type": "project",
